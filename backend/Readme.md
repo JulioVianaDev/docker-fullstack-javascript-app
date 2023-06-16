@@ -4,4 +4,4 @@
 
 # startar o container
 
-```docker  run --name goals-backend --rm goals-node```
+```docker  run --name goals-backend --rm -p 80:80 goals-node```
